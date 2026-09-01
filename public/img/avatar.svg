@@ -1,0 +1,6 @@
+<svg width="240" height="240" viewBox="0 0 240 240" xmlns="http://www.w3.org/2000/svg">
+  <rect width="240" height="240" fill="#2A3547"/>
+  <circle cx="120" cy="95" r="42" fill="#C08A28"/>
+  <path d="M40 220c8-52 48-80 80-80s72 28 80 80" fill="#C08A28" opacity="0.85"/>
+  <text x="120" y="235" text-anchor="middle" font-family="IBM Plex Mono, monospace" font-size="12" fill="#8A93A6">substitua por public/img/avatar.jpg</text>
+</svg>
